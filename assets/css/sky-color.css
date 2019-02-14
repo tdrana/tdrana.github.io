@@ -1,0 +1,150 @@
+.overlay {
+    background: -webkit-linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    background: -moz-linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    background: -ms-linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    background: -o-linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+nav.fixed-top .nav-item .nav-link:before {
+    background-color:#0456c1;
+}
+nav.fixed-top .nav-item .nav-link:after {
+    background-color:#0456c1
+}
+.success-stroke {
+    stroke: #0456c1;
+}
+.service-icon-shedow i {
+    color: #0456c1;
+}
+.portfolio .portfolio-section .item .portfolio-item:before {
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+.service-icon-shedow i:hover {
+    color: #fff;
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+.main-timeline .timeline:hover .title {
+    color:#0456c1;
+}
+.main-timeline .date {
+    color: #0456c1;
+}
+.timeline-icon:after {
+    background: #0456c1;
+}
+.main-timeline .timeline:nth-child(2n) .timeline-icon:after {
+   background:#0456c1;
+}
+.counter-img i {
+    font-size: 40px;
+    color: #0456c1;
+}
+.blog-post-wrapper-div:hover {
+    border-color:#0456c1;
+}
+ul.list-unstyled.list-inline.post-metadata li {
+    color: #0456c1;
+}
+a.blog-btn {
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+a.blog-btn:hover {
+    background: #fff;
+    color:#0456c1;
+}
+a.page-link.active {
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    color: #ffffff;
+}
+.pagination-div .page-link {
+    border: 1px solid #0456c1;
+}
+.submit.div-btn {
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+.submit.div-btn:hover {
+    background: transparent;
+    color: #0456c1;
+}
+section.info.pt-50.pb-50 {
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}
+.contact-icon i {
+    color: #0456c1;
+}
+footer {
+background: rgb(21, 42, 74);
+    padding: 30px 0px;
+}
+.footer-social i {
+    color:#0456c1;
+}
+
+/*blog page*/
+.blog-sidebar .widget > h3:after {
+background-color: #0456c1;
+}
+.blog-details-post .entry-meta li i {
+color: #0456c1;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #0456c1;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #0456c1;
+}
+.blog-sidebar .search-widget button:hover {
+    color: #0456c1;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #0456c1;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color:  #0456c1;
+}
+.blog-sidebar .recent-posts-widget .date {
+    color: #0456c1;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background-color: #0456c1;
+    border-color: #0456c1;
+}
+.slider-area .owl-dot.active {
+background:#2081ff;
+}
+.project-details-title h6 {
+    color:  #0456c1;
+}
+.project-features ul li i {
+    color: #0456c1;
+}
+.portfolio .port-filter ul li.filter-item {
+    text-transform: uppercase;
+    border: 0px;
+    padding: 10px 20px;
+    background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+    color: #fff;
+    border-radius: 25px;
+    font-weight: 600 !important;
+    font-size: 14px;
+}
+  .success {
+  background:  #0456c1;
+  }
+  .title-main-page h4:before {
+    border-color: #0456c1;
+
+}
+.title-main-page p:after {
+    border-bottom: 5px solid #0456c1;
+}
+a.header-btn {
+
+    color: #0456c1;
+
+}
+a.header-btn:hover {
+    color: #fff;
+   background: linear-gradient(-45deg, rgba(2, 27, 121, .9), rgba(5, 117, 230, .9));
+}

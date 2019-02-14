@@ -1,0 +1,124 @@
+
+    .overlay {
+    background: -webkit-linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+    background: -moz-linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+    background: -ms-linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+    background: -o-linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+}
+nav.fixed-top .nav-item .nav-link:before {
+    background-color:#883777;
+}
+nav.fixed-top .nav-item .nav-link:after {
+    background-color:#883777
+}
+.success-stroke {
+    stroke: #883777;
+}
+.service-icon-shedow i {
+    color: #883777;
+}
+.portfolio .portfolio-section .item .portfolio-item:before {
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+}
+.main-timeline .timeline:hover .title {
+    color:#883777;
+}
+.main-timeline .date {
+    color: #883777;
+}
+.timeline-icon:after {
+    background: #883777;
+}
+.main-timeline .timeline:nth-child(2n) .timeline-icon:after {
+   background:#883777;
+}
+.counter-img i {
+    font-size: 40px;
+    color: #883777;
+}
+.blog-post-wrapper-div:hover {
+    border-color:#883777;
+}
+ul.list-unstyled.list-inline.post-metadata li {
+    color: #883777;
+}
+a.blog-btn {
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+}
+a.blog-btn:hover {
+    background: #fff;
+    color:#883777;
+}
+a.page-link.active {
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+    color: #ffffff;
+}
+.pagination-div .page-link {
+    border: 1px solid #883777;
+}
+.submit.div-btn {
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+}
+.submit.div-btn:hover {
+    background: transparent;
+    color: #883777;
+}
+section.info.pt-50.pb-50 {
+    background: linear-gradient(-45deg, rgba(95, 44, 130, .9), rgba(202, 73, 102, .9));
+}
+.contact-icon i {
+    color: #883777;
+}
+footer {
+    background: rgb(82, 40, 68);
+    padding: 30px 0px;
+}
+.footer-social i {
+    color:#883777;
+}
+
+/*blog page*/
+.blog-sidebar .widget > h3:after {
+background-color: #883777;
+}
+.blog-details-post .entry-meta li i {
+color: #883777;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #883777;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #883777;
+}
+.blog-sidebar .search-widget button:hover {
+    color: #883777;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #883777;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color:  #883777;
+}
+.blog-sidebar .recent-posts-widget .date {
+    color: #883777;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background-color: #883777;
+    border-color: #883777;
+}
+.slider-area .owl-dot.active {
+background:#ff00fb;
+}
+.project-details-title h6 {
+    color: #883777;
+}
+.project-features ul li i {
+    color: #883777;
+}
+.portfolio .port-filter ul li.filter-item {
+    border-bottom: 3px solid #883777;
+}
+  .success {
+  background: #883777;
+  }

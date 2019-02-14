@@ -1,0 +1,53 @@
+        .overlay{    
+          height: 100%;
+          width: 100%;
+          background:  linear-gradient(-45deg, rgba(79, 85, 201, .9), rgba(129, 138, 255, .9));
+          background: -moz-linear-gradient(-45deg, rgba(79, 85, 201, .9), rgba(129, 138, 255, .9));
+          background: -ms-linear-gradient(-45deg, rgba(79, 85, 201, .9), rgba(129, 138, 255, .9));
+          background: -o-linear-gradient(-45deg, rgba(79, 85, 201, .9), rgba(129, 138, 255, .9));
+          background: linear-gradient(-45deg, rgba(79, 85, 201, .9), rgba(129, 138, 255, .9));
+      }
+      /*blog page*/
+.blog-sidebar .widget > h3:after {
+background-color: #4e54c8;
+}
+.blog-details-post .entry-meta li i {
+color: #4e54c8;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #4e54c8;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #4e54c8;
+}
+.blog-sidebar .search-widget button:hover {
+    color: #4e54c8;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #4e54c8;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color:  #4e54c8;
+}
+.blog-sidebar .recent-posts-widget .date {
+    color: #4e54c8;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background-color: #4e54c8;
+    border-color: #4e54c8;
+}
+.slider-area .owl-dot.active {
+background: #000dff;
+}
+.project-details-title h6 {
+    color: #4e54c8;
+}
+.project-features ul li i {
+    color: #4e54c8;
+}
+.portfolio .port-filter ul li.filter-item {
+      background: linear-gradient(-45deg, rgba(78, 84, 200, .9), rgba(128, 137, 255, .9));
+}
+  .success {
+  background: #4e54c8;
+  }
